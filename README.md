@@ -15,3 +15,4 @@ To deploy this on AWS EC2:
 2. Install Python & pip.
 3. Clone or upload this project.
 4. Run the app with `sudo python3 app.py`
+http://15.206.186.172:5000/ (public ip of ec2)
